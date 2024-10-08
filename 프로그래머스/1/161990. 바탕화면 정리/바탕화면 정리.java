@@ -1,6 +1,6 @@
 class Solution {
     public int[] solution(String[] wallpaper) {
-        int[] answer = {Integer.MAX_VALUE, Integer.MAX_VALUE, 0, 0};
+        int[] answer = {50, 50, 0, 0};
         for (int i = 0; i<wallpaper.length; i++) {
             for (int j = 0; j<wallpaper[i].length(); j++) {
                 char temp = wallpaper[i].charAt(j);
