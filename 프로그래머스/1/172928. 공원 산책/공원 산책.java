@@ -3,7 +3,6 @@ class Solution {
         int[][] map = new int[park.length][park[0].length()];
         int[] answer = {0, 0};
         
-        // 'X'와 'S' 처리
         for (int i = 0; i < park.length; i++) {
             for (int j = 0; j < park[i].length(); j++) {
                 if (park[i].charAt(j) == 'X') {
