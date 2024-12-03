@@ -1,10 +1,10 @@
 # [level 1] 신고 결과 받기 - 92334 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/92334) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/92334#qna) 
 
 ### 성능 요약
 
-메모리: 158 MB, 시간: 713.95 ms
+메모리: 162 MB, 시간: 752.25 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 12월 03일 22:31:54
+2024년 12월 04일 08:46:11
 
 ### 문제 설명
 
